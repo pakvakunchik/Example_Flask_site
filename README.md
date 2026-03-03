@@ -1,2 +1,2 @@
-﻿# New_flask_site
-example for future projects
+# example flask site
+just flask-site, example for future projects
